@@ -1,0 +1,4 @@
+pymposer
+========
+
+Composer for Python
